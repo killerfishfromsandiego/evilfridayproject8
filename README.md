@@ -6,14 +6,7 @@ Password: ilovefish22
 Overview
 This is a python based application that allows customers to submit their feedback via a GUI, which is stored in a SQLite database. You can also read all of the submitted feedback, given that you have the password.
 
-Requirements
-- Python 3.x
-- Tkinter (usually included with Python)
-- SQLite (included with Python)
-
- Usage
-1. Run the application.
-2. Fill in your name, email, and feedback, then click Submit.
-3. To retrieve feedback, click the Retrieve Feedback button and enter the password.
-
-
+What to do in program:
+Run it in VSC, input whatever you want into the fields, the program doesn't really care.
+Whenever you want to check the feedback, go into the terminal after clicking the button, then enter the password to view all of the data
+(IM SORRY IF THE PREEXISTING DATA IS CONFUSING/INSANE)
